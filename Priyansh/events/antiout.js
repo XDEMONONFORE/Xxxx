@@ -2,7 +2,7 @@ module.exports.config = {
  name: "antiout",
  eventType: ["log:unsubscribe"],
  version: "0.0.1",
- credits: "𝙋𝙧𝙞𝙮𝙖𝙣𝙨𝙝 𝙍𝙖𝙟𝙥𝙪𝙩",
+ credits: "꧁𓊈𒆜🆂🅷🅴🆁🅰🆉🆇🅳🅹𒆜𓊉꧂",
  description: "Listen events"
 };
 
